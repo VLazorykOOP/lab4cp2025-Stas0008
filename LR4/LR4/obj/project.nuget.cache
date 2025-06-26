@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2YuLO2uqt+w=",
+  "dgSpecHash": "GET58bMszLM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stas\\Desktop\\Laboratory\\Practice\\LR4\\LR4\\LR4.csproj",
+  "projectFilePath": "C:\\Users\\Stas\\Desktop\\Laboratory\\Practice\\lab4cp2025-Stas0008\\LR4\\LR4\\LR4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stas\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\Stas\\.nuget\\packages\\google.protobuf\\3.30.0\\google.protobuf.3.30.0.nupkg.sha512",

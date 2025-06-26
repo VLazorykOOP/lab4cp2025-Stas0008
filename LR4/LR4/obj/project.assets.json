@@ -1615,11 +1615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stas\\Desktop\\Laboratory\\Practice\\LR4\\LR4\\LR4.csproj",
+      "projectUniqueName": "C:\\Users\\Stas\\Desktop\\Laboratory\\Practice\\lab4cp2025-Stas0008\\LR4\\LR4\\LR4.csproj",
       "projectName": "LR4",
-      "projectPath": "C:\\Users\\Stas\\Desktop\\Laboratory\\Practice\\LR4\\LR4\\LR4.csproj",
+      "projectPath": "C:\\Users\\Stas\\Desktop\\Laboratory\\Practice\\lab4cp2025-Stas0008\\LR4\\LR4\\LR4.csproj",
       "packagesPath": "C:\\Users\\Stas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stas\\Desktop\\Laboratory\\Practice\\LR4\\LR4\\obj\\",
+      "outputPath": "C:\\Users\\Stas\\Desktop\\Laboratory\\Practice\\lab4cp2025-Stas0008\\LR4\\LR4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
